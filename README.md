@@ -8,20 +8,20 @@
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/linkedin.svg" width="14%" hspace="10" />
+    <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/linkedin.svg" width="12%" hspace="14" />
   </a>
   <a
     href="https://dev.to/pripoliveira50" 
     alt="dev.to"
     target="blank"
   >
-     <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/dev.svg" width="14%" hspace="10" />
+     <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/dev.svg" width="12%" hspace="14" />
   <a
     href="https://www.tiktok.com/@pripoliveira50" 
     alt="tiktok"
     target="blank"
   >
-    <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/tiktok.svg" width="14%" hspace="10" />
+    <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/tiktok.svg" width="12%" hspace="14" />
   </a>
 </p>
 
