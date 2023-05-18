@@ -2,30 +2,32 @@
   <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/me.svg" width="80%"
   alt="Priscila oliveira" />
   <br>
+  <br>
   <a
     href="https://www.linkedin.com/in/pripoliveira50/" 
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/linkedin.svg" width="6%" />
+    <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/linkedin.svg" width="14%" hspace="10" />
   </a>
   <a
     href="https://dev.to/pripoliveira50" 
     alt="dev.to"
     target="blank"
   >
-     <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/dev.svg" width="6%" />
+     <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/dev.svg" width="14%" hspace="10" />
   <a
     href="https://www.tiktok.com/@pripoliveira50" 
     alt="tiktok"
     target="blank"
   >
-    <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/tiktok.svg" width="6%"  />
+    <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/tiktok.svg" width="14%" hspace="10" />
   </a>
 </p>
 
 <h3 align="center">
-  Hello, I'm Priscila, mobile developer React Native 👋
+  Hello, I'm Priscila, mobile developer React Native <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px">
+
 </h3>
 <p align="center">
    React Native | Typescript | Jest | React hook Form | React Query | Expo | Apollo | Styled Components 
