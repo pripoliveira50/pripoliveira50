@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="center">
-  Hello, I'm Priscila, mobile developer React Native <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px">
+  Hello, I'm Priscila, React Native mobile developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px">
 
 </h3>
 <p align="center">
