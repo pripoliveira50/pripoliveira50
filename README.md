@@ -35,4 +35,4 @@
 <h4 align="center">
   📌  Living in <b>Brazil</b>  
 </h4>
-<h4 align="center">💼 Mobile developer Z1 Bank 💞 </h4>
+<h4 align="center">💼 Mobile developer 💞 </h4>
