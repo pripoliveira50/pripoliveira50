@@ -30,7 +30,7 @@
 
 </h3>
 <p align="center">
-   React Native | Typescript | Jest | React hook Form | React Query | Expo | Apollo | Styled Components 
+   Mobile Developer | React Native | Firebase | Sentry | Data Dog | iOS 
 </p>
 <h4 align="center">
   📌  Living in <b>Brazil</b>  
