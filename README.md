@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi, I'm Priscila Oliveira! 👩🏻‍💻✨</h2>
+<h1 align="center">Hi, I'm Priscila Oliveira! 👩🏻‍💻✨</h1>
 
 <p align="center">
   <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/me.png" width="50%" alt="Priscila Oliveira" />
