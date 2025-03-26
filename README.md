@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Priscila Oliveira! 👩🏻‍💻✨</h1>
 
 <p align="center">
-  <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/me.png" width="80%" alt="Priscila Oliveira" />
+  <img src="https://github.com/pripoliveira50/pripoliveira50/blob/main/.github/assets/me.png" width="50%" alt="Priscila Oliveira" />
 </p>
 
 <h3 align="center">🚀 Senior Mobile Developer | React Native & iOS Specialist 🚀</h3>
