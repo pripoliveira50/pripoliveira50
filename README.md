@@ -10,14 +10,15 @@
 - 📫 How to reach me **priscilapoliveira50@gmail.com**
 
 - ⚡ Fun fact **I debug faster when there’s lo-fi playing and strong coffee around ☕🎧**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/pripoliveira50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pripoliveira50" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pripoliveira50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pripoliveira50" height="30" width="40" /></a>
-<a href="https://medium.com/@pripoliveira50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pripoliveira50" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/12240000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="12240000" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <h3 align="center">Connect with me:</h3>
+  <p align="center">
+  <a href="https://dev.to/pripoliveira50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pripoliveira50" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/pripoliveira50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pripoliveira50" height="30" width="40" /></a>
+  <a href="https://medium.com/@pripoliveira50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pripoliveira50" height="30" width="40" /></a>
+  <a href="https://www.topcoder.com/members/12240000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="12240000" height="30" width="40" /></a>
+  </p>
+</div>
 
 <br />
 <br />
