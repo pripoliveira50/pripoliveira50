@@ -22,6 +22,5 @@
 </div>
 
 <br />
-<br />
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pripoliveira50&show_icons=true&locale=en&layout=compact" alt="pripoliveira50" /></p>
