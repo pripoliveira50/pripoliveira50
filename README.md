@@ -19,4 +19,7 @@
 <a href="https://www.topcoder.com/members/12240000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="12240000" height="30" width="40" /></a>
 </p>
 
+<br/>
+<br/>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pripoliveira50&show_icons=true&locale=en&layout=compact" alt="pripoliveira50" /></p>
