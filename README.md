@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Swift, Objective-C, Kotlin, Security Mobile**
 
-- 📝 I regularly write articles on [https://dev.to/pripoliveira50]([https://dev.to/pripoliveira50](https://linktr.ee/pripoliveira50))
+- 📝 I regularly write articles on [Linktree]([https://dev.to/pripoliveira50](https://linktr.ee/pripoliveira50))
 
 - 💬 Ask me about **React Native, Expo, iOS (Swift), Firebase, Clean Architecture, Zustand, Jest, Sentry, or how to make your app 2x faster 🚀**
 
